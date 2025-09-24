@@ -1,0 +1,48 @@
+            table {
+                display: block;
+                padding: 12px;
+                margin: 0px;
+                
+                color: rgb(187, 20, 220);
+                background: black;
+            }
+           *{
+                margin: 0;
+                padding: 0;
+                inset: 0;
+           }
+           a { display: block;
+                padding: 12px;
+                margin: 0px;
+                
+                color: rgb(187, 20, 220);
+                background: black;
+            }
+           body {
+                background-color:rgb(37, 1, 48);
+            }
+             .Rose{ display: block;
+                padding: 12px;
+                margin: 0px;
+                
+                color: rgb(0, 68, 6);
+                }
+
+            .Mori{ display: block;
+                padding: 12px;
+                margin: 0px;
+                
+                color: dodgerblue;
+                }
+            .EXE{ display: block;
+                padding: 12px;
+                margin: 0px;
+                
+                color:crimson;
+                }
+            .Universal{ display: block;
+                padding: 12px;
+                margin: 0px;
+                
+                color:rgb(255, 255, 255);
+                }
